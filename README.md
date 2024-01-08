@@ -190,8 +190,8 @@ now all depandencies and supported pacakes are installed
 ```
 ***********************************************************
  
-## The Complete Data Analysis R Markdown page is here: [ click here to land on project page](https://ayandey1359.github.io/dvd-rental-da/)
-
+## The Complete Data Analysis R Markdown page is here: [ click here ](https://ayandey1359.github.io/dvd-rental-da/) 
+To land on the project page.
 
 
 ## Importing Data
