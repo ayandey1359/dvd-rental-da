@@ -1,8 +1,6 @@
 # DVD Rental Data Analysis
----
 ## Over View  
 
----
 ## Platform
 To complete this Data Analyse project I had used  
  * **SQL language**  
