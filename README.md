@@ -106,7 +106,7 @@ $ superset init
 $ export SUPERSET_SECRET_KEY= "key-string"  
 $ superset run -p 8099 --with-threads --reload --debugger
 ```
-![](../../constant/superset_login_screen.jpg)  
+![Apache Superset](img/superset_login_screen.jpg)  
 now connect with database by SQL-Alchemy URL  
 ```
 # URL syntax
@@ -156,7 +156,7 @@ con <- dbConnect(odbc::odbc(),
                  database = "database_name",
 ```
 **connection established**  
-![](../../constant/r_connection_screen.png)  
+![RDatabase](img/r_connection_screen.png)
 **RStudio + database**  
 
 
