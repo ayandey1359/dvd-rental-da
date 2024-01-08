@@ -189,13 +189,17 @@ now all depandencies and supported pacakes are installed
 > install.packages("rmarkdown")
 ```
 ***********************************************************
+ 
+## The Complete Data Analysis R Markdown page is here: [ click here to land on project page](https://ayandey1359.github.io/dvd-rental-da/)
+
+
 
 ## Importing Data
 ---
-* This data set is avaliable in the official postgres learning platfrom and the database link is [here]()  
+* This data set is avaliable in the official postgres learning platfrom and the database link is [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)  
 # Analytics
 
-*
 
 
-# **This Project is 'Under Construction'**  
+
+# **This Project is 'Under Construction'** 
